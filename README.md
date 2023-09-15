@@ -1,2 +1,3 @@
 # frog_game
-eng : My first ended python fan project / ru: Первый законченный python проект
+eng : This is my first attempt at creating a simple but complete game. I tried to implement as many features as I could handle at my current level of learning, while making sure they were justified by the gameplay. The game is written in python 3.11.5 using the pygame 2.5.0 library. All sprites and backgrounds are drawn by me. 
+ru : Это моя первая попытка создать простую, но законченную игру. Я попытался реализовать столько функций, сколько мог бы осилить на текущем уровне обучения, при этом чтобы они были обоснованы геймплеем. Игра написана на python 3.11.5 с использованием библиотеки pygame 2.5.0. Все спрайты и задники нарисованы мной.  
